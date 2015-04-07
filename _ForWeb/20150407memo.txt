@@ -1,0 +1,9 @@
+=========版本管理=========
+SourceTree => http://www.sourcetreeapp.com/
+申請 github & bitbucket 的帳號
+
+git參考書 => http://git-scm.com/book/en/v2
+
+實作(組長) =>
+(1) Add existing local repository
+(2) 
