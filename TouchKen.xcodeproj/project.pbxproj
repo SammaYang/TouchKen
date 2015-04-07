@@ -14,6 +14,19 @@
 		63167BAB1A7B6F3700B7BC1C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63167BAA1A7B6F3700B7BC1C /* Images.xcassets */; };
 		63167BAE1A7B6F3700B7BC1C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63167BAC1A7B6F3700B7BC1C /* LaunchScreen.xib */; };
 		63167BBA1A7B6F3700B7BC1C /* TouchKenTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 63167BB91A7B6F3700B7BC1C /* TouchKenTests.m */; };
+		63167BC51A7B6FA000B7BC1C /* Ken.m in Sources */ = {isa = PBXBuildFile; fileRef = 63167BC41A7B6FA000B7BC1C /* Ken.m */; };
+		63167BD31A7B752A00B7BC1C /* ken1.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BC71A7B752A00B7BC1C /* ken1.png */; };
+		63167BD41A7B752A00B7BC1C /* ken1r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BC81A7B752A00B7BC1C /* ken1r.png */; };
+		63167BD51A7B752A00B7BC1C /* ken2.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BC91A7B752A00B7BC1C /* ken2.png */; };
+		63167BD61A7B752A00B7BC1C /* ken2r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCA1A7B752A00B7BC1C /* ken2r.png */; };
+		63167BD71A7B752A00B7BC1C /* ken3.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCB1A7B752A00B7BC1C /* ken3.png */; };
+		63167BD81A7B752A00B7BC1C /* ken3r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCC1A7B752A00B7BC1C /* ken3r.png */; };
+		63167BD91A7B752A00B7BC1C /* ken4.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCD1A7B752A00B7BC1C /* ken4.png */; };
+		63167BDA1A7B752A00B7BC1C /* ken4r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCE1A7B752A00B7BC1C /* ken4r.png */; };
+		63167BDB1A7B752A00B7BC1C /* ken5.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BCF1A7B752A00B7BC1C /* ken5.png */; };
+		63167BDC1A7B752A00B7BC1C /* ken5r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BD01A7B752A00B7BC1C /* ken5r.png */; };
+		63167BDD1A7B752A00B7BC1C /* ken6.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BD11A7B752A00B7BC1C /* ken6.png */; };
+		63167BDE1A7B752A00B7BC1C /* ken6r.png in Resources */ = {isa = PBXBuildFile; fileRef = 63167BD21A7B752A00B7BC1C /* ken6r.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +53,20 @@
 		63167BB31A7B6F3700B7BC1C /* TouchKenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchKenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63167BB81A7B6F3700B7BC1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63167BB91A7B6F3700B7BC1C /* TouchKenTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchKenTests.m; sourceTree = "<group>"; };
+		63167BC31A7B6FA000B7BC1C /* Ken.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ken.h; sourceTree = "<group>"; };
+		63167BC41A7B6FA000B7BC1C /* Ken.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ken.m; sourceTree = "<group>"; };
+		63167BC71A7B752A00B7BC1C /* ken1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken1.png; sourceTree = "<group>"; };
+		63167BC81A7B752A00B7BC1C /* ken1r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken1r.png; sourceTree = "<group>"; };
+		63167BC91A7B752A00B7BC1C /* ken2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken2.png; sourceTree = "<group>"; };
+		63167BCA1A7B752A00B7BC1C /* ken2r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken2r.png; sourceTree = "<group>"; };
+		63167BCB1A7B752A00B7BC1C /* ken3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken3.png; sourceTree = "<group>"; };
+		63167BCC1A7B752A00B7BC1C /* ken3r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken3r.png; sourceTree = "<group>"; };
+		63167BCD1A7B752A00B7BC1C /* ken4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken4.png; sourceTree = "<group>"; };
+		63167BCE1A7B752A00B7BC1C /* ken4r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken4r.png; sourceTree = "<group>"; };
+		63167BCF1A7B752A00B7BC1C /* ken5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken5.png; sourceTree = "<group>"; };
+		63167BD01A7B752A00B7BC1C /* ken5r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken5r.png; sourceTree = "<group>"; };
+		63167BD11A7B752A00B7BC1C /* ken6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken6.png; sourceTree = "<group>"; };
+		63167BD21A7B752A00B7BC1C /* ken6r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ken6r.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +90,7 @@
 		63167B911A7B6F3700B7BC1C = {
 			isa = PBXGroup;
 			children = (
+				63167BC61A7B752A00B7BC1C /* TouchKen_Resources */,
 				63167B9C1A7B6F3700B7BC1C /* TouchKen */,
 				63167BB61A7B6F3700B7BC1C /* TouchKenTests */,
 				63167B9B1A7B6F3700B7BC1C /* Products */,
@@ -86,6 +114,8 @@
 				63167BA41A7B6F3700B7BC1C /* ViewController.h */,
 				63167BA51A7B6F3700B7BC1C /* ViewController.m */,
 				63167BA71A7B6F3700B7BC1C /* Main.storyboard */,
+				63167BC31A7B6FA000B7BC1C /* Ken.h */,
+				63167BC41A7B6FA000B7BC1C /* Ken.m */,
 				63167BAA1A7B6F3700B7BC1C /* Images.xcassets */,
 				63167BAC1A7B6F3700B7BC1C /* LaunchScreen.xib */,
 				63167B9D1A7B6F3700B7BC1C /* Supporting Files */,
@@ -117,6 +147,25 @@
 				63167BB81A7B6F3700B7BC1C /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		63167BC61A7B752A00B7BC1C /* TouchKen_Resources */ = {
+			isa = PBXGroup;
+			children = (
+				63167BC71A7B752A00B7BC1C /* ken1.png */,
+				63167BC81A7B752A00B7BC1C /* ken1r.png */,
+				63167BC91A7B752A00B7BC1C /* ken2.png */,
+				63167BCA1A7B752A00B7BC1C /* ken2r.png */,
+				63167BCB1A7B752A00B7BC1C /* ken3.png */,
+				63167BCC1A7B752A00B7BC1C /* ken3r.png */,
+				63167BCD1A7B752A00B7BC1C /* ken4.png */,
+				63167BCE1A7B752A00B7BC1C /* ken4r.png */,
+				63167BCF1A7B752A00B7BC1C /* ken5.png */,
+				63167BD01A7B752A00B7BC1C /* ken5r.png */,
+				63167BD11A7B752A00B7BC1C /* ken6.png */,
+				63167BD21A7B752A00B7BC1C /* ken6r.png */,
+			);
+			path = TouchKen_Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +249,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				63167BA91A7B6F3700B7BC1C /* Main.storyboard in Resources */,
+				63167BDA1A7B752A00B7BC1C /* ken4r.png in Resources */,
+				63167BDB1A7B752A00B7BC1C /* ken5.png in Resources */,
+				63167BD91A7B752A00B7BC1C /* ken4.png in Resources */,
 				63167BAE1A7B6F3700B7BC1C /* LaunchScreen.xib in Resources */,
+				63167BDD1A7B752A00B7BC1C /* ken6.png in Resources */,
+				63167BD61A7B752A00B7BC1C /* ken2r.png in Resources */,
+				63167BDE1A7B752A00B7BC1C /* ken6r.png in Resources */,
+				63167BD41A7B752A00B7BC1C /* ken1r.png in Resources */,
+				63167BDC1A7B752A00B7BC1C /* ken5r.png in Resources */,
+				63167BD81A7B752A00B7BC1C /* ken3r.png in Resources */,
+				63167BD71A7B752A00B7BC1C /* ken3.png in Resources */,
+				63167BD31A7B752A00B7BC1C /* ken1.png in Resources */,
 				63167BAB1A7B6F3700B7BC1C /* Images.xcassets in Resources */,
+				63167BD51A7B752A00B7BC1C /* ken2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +282,7 @@
 			files = (
 				63167BA61A7B6F3700B7BC1C /* ViewController.m in Sources */,
 				63167BA31A7B6F3700B7BC1C /* AppDelegate.m in Sources */,
+				63167BC51A7B6FA000B7BC1C /* Ken.m in Sources */,
 				63167BA01A7B6F3700B7BC1C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +474,7 @@
 				63167BBF1A7B6F3800B7BC1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63167BC01A7B6F3800B7BC1C /* Build configuration list for PBXNativeTarget "TouchKenTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +483,7 @@
 				63167BC21A7B6F3800B7BC1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
