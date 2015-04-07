@@ -21,6 +21,7 @@
     - (void)didDropInGray:(long)tag;
 @end
 
+//This is Class
 @interface Ken : UIView
 {
     CGPoint location;
